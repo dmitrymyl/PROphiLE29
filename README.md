@@ -1,4 +1,4 @@
-# PROphiLE29
+# PROphiLE29 by OMG
 
 ![OMG](./omg.jpg)
 
